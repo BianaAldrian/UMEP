@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SplashScreen.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARNav.unity
+    guid: 195619a6b19d17a489f32192742b77be
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 925796be4ed5c6c4ab245ad273f1f3f6, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2eb69696e9feb6044963ec827362e22b, type: 2}
