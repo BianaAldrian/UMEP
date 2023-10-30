@@ -8,4 +8,34 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SplashScreen.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/1st Scene/Opening Animation #1.unity
+    guid: 50979d4e50849144db0d27ffd078b2f3
+  - enabled: 1
+    path: Assets/Scenes/1st Scene/Opening Animation #2.unity
+    guid: 7e94417032e0c06409c37010088796bb
+  - enabled: 0
+    path: Assets/Scenes/1st Scene/Opening Animation #3.unity
+    guid: f61ad4a95096aa445bf67ae5e1047876
+  - enabled: 1
+    path: Assets/Scenes/2nd Scene Home/Home.unity
+    guid: e19f6227f9cd49e48850452471965b2b
+  - enabled: 1
+    path: Assets/Scenes/3rd Sccene/Choose your profile.unity
+    guid: 420518812f5631148a532ea0db397842
+  - enabled: 1
+    path: Assets/Scenes/About/About.unity
+    guid: fe9450a01472b9c469e7bb6e2d5d2da6
+  - enabled: 1
+    path: Assets/Scenes/Log On (Admin)/Log On (Admin).unity
+    guid: 4a02571128d7e26438577b0b2f6a468a
+  - enabled: 1
+    path: Assets/Scenes/Log On (Student)/Log On (Student).unity
+    guid: 2f983fd2c02e3af4bb77409c05bb0994
+  - enabled: 1
+    path: Assets/Scenes/Registration (Admin)/Registration (Admin).unity
+    guid: 42c904a1c0293044dbf2c834fdd54218
+  - enabled: 1
+    path: Assets/Scenes/Registration (Student)/Registration (Student).unity
+    guid: 9dd637bd4060379478324d9766177a1d
   m_configObjects: {}
